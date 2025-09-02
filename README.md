@@ -1,51 +1,49 @@
-# 👩‍💻 Sophia Wagner – Freelance AI Engineer
+# Sophia Wagner – Freelance AI Engineer
 
 Welcome to my portfolio! I build production-ready AI applications – from prototype to API. My focus is on LLM integration, semantic search, document intelligence, and scalable FastAPI backends.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a freelance AI engineer specializing in building robust, scalable AI solutions for businesses. My expertise includes:
 
-- Large Language Model (LLM) integration
-- Semantic search & document intelligence
+- LLM-based assistants & GPT automation
+- Semantic search & document analysis
 - FastAPI backend development
 - Cloud deployment (Azure, Docker)
 - End-to-end project delivery
 
 ---
-## 📂 Highlight Projects
 
-Here’s a selection of my recent and ongoing work:
+## Highlight Projects
 
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
+| Project | Description | Tech Stack | Link |
 |:---|:---|:---|:---|
-| **Document Intelligence Pipeline** | Automated extraction of structured data from scanned documents using advanced OCR and AI workflows. | Azure AI, FastAPI, PyTorch | _Coming soon_ |
-| **Semantic Search App** | Powerful semantic search across unstructured data with vector databases and LLMs. | LangChain, Qdrant, FastAPI | _Coming soon_ |
-| **GPT Tool Agent** | Custom GPT-powered agent integrating external tools for business automation. | OpenAI, LangChain, FastAPI | _Coming soon_ |
-| **FastAPI Template** | Production-ready FastAPI template with CI/CD for rapid AI backend deployment. | FastAPI, Docker, Azure | _Coming soon_ |
-
-*More projects and demos will be added soon!*
+| **Document Intelligence Pipeline** | Extracts structured data from scanned documents using OCR and AI post-processing. | Azure Document Intelligence, PyTorch, FastAPI | [GitHub](https://github.com/sophiacodesai/doc-intelligence-pipeline) |
+| **Semantic Search Pipeline** | Semantic document search based on custom vector embeddings and Qdrant. | Qdrant, FastAPI, Sentence Transformers | [GitHub](https://github.com/sophiacodesai/semantic-search-pipeline) |
+| **GPT Tool Agent** | GPT-4 agent that integrates external tools via LangChain to automate business queries. | OpenAI API, LangChain, FastAPI | [GitHub](https://github.com/sophiacodesai/gpt-multi-tool-agent) |
+| **FastAPI Backend Template** | Production-ready FastAPI starter with Docker, logging, API key auth, and CI setup. | FastAPI, Docker, Pytest | [GitHub](https://github.com/sophiacodesai/fastapi-template) |
 
 ---
 
-## 📸 Screenshots & Architecture
+## Screenshots & Architecture
 
-> Coming soon – I’m currently building the first demos!
-
----
-
-## 📬 Contact
-
-- 📫 GitHub: [sophiacodesai](https://github.com/sophiacodesai)
-- 💼 Upwork: https://www.upwork.com/freelancers/~01e776b68a5ff7a5e6
-- 🌐 Malt: https://www.malt.de/profile/sophiawagner?
-- 👩‍💻 Freelancermap: https://www.freelancermap.de/profile/305906/form
+Visuals and architecture diagrams will be added soon – currently finalizing and testing the demos.
 
 ---
 
-## 📝 How to Work With Me
+## Contact
+
+- GitHub: [sophiacodesai](https://github.com/sophiacodesai)
+- Upwork: [Profile](https://www.upwork.com/freelancers/~01e776b68a5ff7a5e6)
+- Malt: [Profile](https://www.malt.de/profile/sophiawagner?)
+- Freelancermap: [Profile](https://www.freelancermap.de/profile/305906/form)
+
+---
+
+## Work With Me
 
 Interested in collaborating?  
-Feel free to reach out via GitHub or the platforms above. I’m open to freelance projects, consulting, and partnerships.
+Feel free to reach out via GitHub or one of the platforms above.  
+I’m available for freelance projects, consulting, and partnerships.

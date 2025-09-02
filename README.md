@@ -22,7 +22,7 @@ I’m a freelance AI engineer specializing in building robust, scalable AI solut
 |:---|:---|:---|:---|
 | **Document Intelligence Pipeline** | Extracts structured data from scanned documents using OCR and AI post-processing. | Azure Document Intelligence, PyTorch, FastAPI | [GitHub](https://github.com/sophiacodesai/doc-intelligence-pipeline) |
 | **Semantic Search Pipeline** | Semantic document search based on custom vector embeddings and Qdrant. | Qdrant, FastAPI, Sentence Transformers | [GitHub](https://github.com/sophiacodesai/semantic-search-pipeline) |
-| **GPT Tool Agent** | GPT-4 agent that integrates external tools via LangChain to automate business queries. | OpenAI API, LangChain, FastAPI | [GitHub](https://github.com/sophiacodesai/gpt-tool-agent) |
+| **GPT Tool Agent** | GPT-4 agent that integrates external tools via LangChain to automate business queries. | OpenAI API, LangChain, FastAPI | [GitHub](https://github.com/sophiacodesai/gpt-multitool-agent) |
 | **FastAPI Backend Template** | Production-ready FastAPI starter with Docker, logging, API key auth, and CI setup. | FastAPI, Docker, Pytest | [GitHub](https://github.com/sophiacodesai/fastapi-template) |
 
 ---

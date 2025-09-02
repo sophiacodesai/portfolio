@@ -29,7 +29,7 @@ I’m a freelance AI engineer specializing in building robust, scalable AI solut
 
 ## Screenshots & Architecture
 
-Visuals and architecture diagrams will be added soon – currently finalizing and testing the demos.
+Visuals and architecture diagrams will be added soon. I am currently finalizing and testing the demos.
 
 ---
 
